@@ -1,0 +1,52 @@
+/* 
+h1{
+    color: saddlebrown;
+    border-left: 10px solid grey;
+    margin-bottom: 5px;
+    padding-left: 5px;
+}
+
+p{
+    color: grey;
+}
+
+a.nav-link{
+    font-family: sans-serif;
+    color: saddlebrown;
+}
+
+a.nav-link:hover{
+    background: saddlebrown;
+    color: white;
+    transition: ease-in (0.1, 2, 0.5, 2);
+}
+
+.btn{
+    background-color: saddlebrown;
+    color: white;
+}
+
+.btn:hover{
+    background-color: darkgray;
+    color: saddlebrown;
+    border: 1px solid gray;
+}
+
+.grid{
+    background: lightgrey;
+}
+
+.grid2{
+    background: lightsalmon;
+}
+ */
+
+
+
+
+
+
+
+ .img-thumbnail{
+     height: 250px;
+ }
